@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404431442072",
+    "project_id": "financial-terms-3e5ff",
+    "storage_bucket": "financial-terms-3e5ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404431442072:android:fb3a82e14b88d5a46240ed",
+        "android_client_info": {
+          "package_name": "com.itheamc.financialterms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404431442072-u7brnmi7b0gt8mtckugaet5p075r3e14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpsx7ruuiDsezrcEsotyHMYKLUPiuNzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404431442072-u7brnmi7b0gt8mtckugaet5p075r3e14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

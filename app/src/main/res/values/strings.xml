@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Financial Terms</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2718777519784278/1143090852</string>
+    <string name="banner_ad_test_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-2718777519784278/7116761829</string>
+    <string name="interstitial_test_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">dividend policy</string>
+
+
+</resources>
